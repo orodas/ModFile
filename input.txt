@@ -1,0 +1,7 @@
+This is an example.
+
+This file will be modified according to the user.
+
+
+
+It StOps WHEN in it reaches ThE EOF!
